@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Joshtblanchard
+- 👀 I’m interested in ... Network+ studies, Python, Linux, Cyber Security, and all things tech.
+- 🌱 I’m currently learning ... Net+ and Python!
